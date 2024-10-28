@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🌱 I’m a PhD student at CPPM (Centre de Physique des Particules de Marseille)
+🔭 I’m currently working on the LHCb detector at CERN, focusing on the angular analysis of semileptonic(electron and muon) B meson decays to probe Lepton Flavor Universality in the Standard Model
+📫 Feel free to reach out at bdkutsenko@gmail.com
 <!--
 **bdkutsenko/bdkutsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
